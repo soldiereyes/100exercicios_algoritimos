@@ -1,6 +1,5 @@
-package Lista02;
+package com.br.listaExercicios.Lista01.Lista02;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 /**
  * Ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles.

@@ -1,6 +1,5 @@
-package Lista01;
+package com.br.listaExercicios.Lista01;
 
-import javax.swing.plaf.synth.SynthPopupMenuUI;
 import java.util.Scanner;
 
 public class MyClass1 {

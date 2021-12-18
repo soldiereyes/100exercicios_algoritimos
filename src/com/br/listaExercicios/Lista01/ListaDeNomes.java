@@ -1,6 +1,5 @@
-package Lista01;
+package com.br.listaExercicios.Lista01;
 
-import java.text.CollationElementIterator;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

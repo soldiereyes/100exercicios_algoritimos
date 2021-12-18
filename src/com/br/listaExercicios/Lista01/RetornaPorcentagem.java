@@ -1,6 +1,5 @@
-package Lista01;
+package com.br.listaExercicios.Lista01;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class RetornaPorcentagem {

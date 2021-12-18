@@ -1,7 +1,4 @@
-package Lista01;
-
-import java.lang.invoke.MethodHandleInfo;
-import java.sql.SQLOutput;
+package com.br.listaExercicios.Lista01;
 
 public class MesmoResultado {
     public static void main(String[] args) {

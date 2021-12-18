@@ -1,4 +1,4 @@
-package Lista01;
+package com.br.listaExercicios.Lista01;
 
 public class TrocaVariavel {
     public static void main(String[] args) {
