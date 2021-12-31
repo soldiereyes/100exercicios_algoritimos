@@ -1,4 +1,4 @@
-package com.br.listaExercicios.Lista01.Lista02;
+package com.br.listaExercicios.Lista02;
 
 import java.util.Scanner;
 /**
@@ -33,6 +33,6 @@ public class OrdenaNumeros {
         }else{
             System.out.println("o maior valor é: " + v);
         }
-        
+
     }
 }

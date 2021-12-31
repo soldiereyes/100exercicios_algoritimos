@@ -1,4 +1,4 @@
-package com.br.listaExercicios.Lista01.Lista02;
+package com.br.listaExercicios.Lista02;
 
 /**
  * Escreva um algoritmo para imprimir os números de 1 (inclusive) a 10 (inclusive) em ordem
