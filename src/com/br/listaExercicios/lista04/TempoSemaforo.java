@@ -1,4 +1,4 @@
-package com.br.listaExercicios.lista4;
+package com.br.listaExercicios.lista04;
 
 import java.util.Scanner;
 
