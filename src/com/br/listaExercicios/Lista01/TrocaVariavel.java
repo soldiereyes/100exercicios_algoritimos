@@ -11,6 +11,7 @@ public class TrocaVariavel {
 //        System.out.println(b);
 //        a = a -= b;
         System.out.println(b);
+        System.out.println(a);
 
 
     }

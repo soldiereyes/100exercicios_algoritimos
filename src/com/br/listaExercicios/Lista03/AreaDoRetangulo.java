@@ -17,7 +17,7 @@ public class AreaDoRetangulo {
     }
 
     public static void main(String[] args) {
-        System.out.println(calculaArea(5, 10 ));
+        System.out.println(calculaArea (5, 10  ));
         System.out.println(calculaPerimetro(5, 10));
     }
 }
